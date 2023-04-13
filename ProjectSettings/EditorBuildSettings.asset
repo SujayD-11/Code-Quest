@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Examples/Maze/MazeLevel0.unity
+    guid: 029e597475c3944a5b42678232c2822b
+  - enabled: 0
+    path: Assets/Examples/Maze/MazeLevel1.unity
+    guid: f9b71d909be1c4e9dbb8b3599d76b33c
+  - enabled: 0
+    path: Assets/Examples/Adventure/Adventure.unity
+    guid: f723b1979947445779b87ef7a1089a32
+  - enabled: 0
+    path: Assets/Examples/Football/Football.unity
+    guid: 8b655b0fb8d8c4758a154fd99dc41447
+  - enabled: 0
+    path: Assets/Examples/Lander/Lander.unity
+    guid: 3925160d1efe749d5a026cbf18c60f83
+  - enabled: 0
+    path: Assets/Examples/Roguelike/Roguelike.unity
+    guid: ad15a26015e49439387b05c22fe7a962
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: a38b515f39de649bb85c0a1b28ca6fdd
+  - enabled: 0
+    path: Assets/Pixel Adventure 1/Gameover_Scene.unity
+    guid: 88ab90c21d6194a8e8c8523c1be2b8c4
+  - enabled: 1
+    path: Assets/Scenes/CodePuzzle.unity
+    guid: c08ac1f7fac834ace87a02bdbf0bcdc1
+  - enabled: 1
+    path: Assets/Scenes/CodePuzzle 2.unity
+    guid: 54380c8c83c464cd5bed5adfc8afb11b
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 4da17a898bc8c412e84b3a7a0f190009
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 4a2774cbcc2e9495bbe5ce309cbdc590
+  - enabled: 1
+    path: Assets/Scenes/Gameover_Scene.unity
+    guid: c9d7fceb34f724c41a2df060cfcb5e47
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9384c63658a094f46816985b30b143aa
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 28bf0fb2884da4913b4c279448ce8525
+  - enabled: 1
+    path: Assets/Scenes/End Credit.unity
+    guid: 71ff84e9d56154440a020a4c89d80431
+  - enabled: 1
+    path: Assets/Scenes/CodePuzzle 3.unity
+    guid: f914f673d825d429397ca011f82e3d15
+  - enabled: 1
+    path: Assets/Scenes/CodePuzzle 2_1.unity
+    guid: d574efcf0ce98400f9128cfedcc5f84f
+  - enabled: 1
+    path: Assets/Scenes/CodePuzzle 2_2.unity
+    guid: 23c242d29dc104219afa773ad6b48fa1
+  - enabled: 1
+    path: Assets/Scenes/CodePuzzle 3_1.unity
+    guid: ebfddde36c44e4297b1ac0f053d311ca
+  - enabled: 1
+    path: Assets/Scenes/CodePuzzle 3_2.unity
+    guid: bbe0f852f100d45eca5e512cb24c263a
+  - enabled: 1
+    path: Assets/Scenes/CodePuzzle 4_1.unity
+    guid: 53c35cfc1207648dabcab7dbf4a4e286
+  m_configObjects: {}
