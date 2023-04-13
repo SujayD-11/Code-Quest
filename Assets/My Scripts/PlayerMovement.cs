@@ -11,7 +11,7 @@ public class PlayerMovement : MonoBehaviour
    [SerializeField] private float moveSpeed = 7f;
    [SerializeField] private float jumpForce = 14f;
 
-    [SerializeField] private AudioSource JumpSfx;
+    //[SerializeField] private AudioSource JumpSfx;
 
 
    
@@ -48,7 +48,7 @@ public class PlayerMovement : MonoBehaviour
 
         if(Input.GetKeyDown("space") && !isJumping)
         {
-            JumpSfx.Play();
+            //JumpSfx.Play();
             rb.velocity = new Vector2(rb.velocity.x,jumpForce);
             isJumping = true;
          
